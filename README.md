@@ -35,3 +35,5 @@ LIMIT 3;
 ## OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/dbms-ex3/assets/94219798/a09f25bd-9fc8-4385-a0c2-cb4018b1df4a)
 ## RESULT:
+Thus,a SQL query is created to show the top n records of an table using Limit method.
+
